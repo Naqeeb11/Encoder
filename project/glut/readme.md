@@ -6,12 +6,12 @@ Install OpenGL on windows in CodeBlocks
 2. Go to the link and download zip file from the download link that appears after freeglut
 MinGW package with having link name as Download freeglut 3.0.0 for MinGW and extract
 it.
-3. Open notepad with run as administrator and open file from
-(a) This PC / C:(C-drive) Program Files(x86) / CodeBlocks / share / CodeBlocks / templates, (then click to show All Files).
-(b) Next, open glut.cbp and search all glut32 and replace with freeglut.
-(c) Then, open from This PC / C:(C-drive) / Program Files(x86) / CodeBlocks / share /
-CodeBlocks / templates / wizard / glut (then click to show All Files)
-(d) Open wizard.script and here, also replace all glut32 with freeglut
+3. Open notepad with run as administrator and open file from.
+  (a) This PC / C:(C-drive) Program Files(x86) / CodeBlocks / share / CodeBlocks / templates, (then click to show All Files).
+  (b) Next, open glut.cbp and search all glut32 and replace with freeglut.
+  (c) Then, open from This PC / C:(C-drive) / Program Files(x86) / CodeBlocks / share /
+      CodeBlocks / templates / wizard / glut (then click to show All Files)
+  (d) Open wizard.script and here, also replace all glut32 with freeglut
 4. Then go to freeglut folder (where it was downloaded) and
 (a) Include / GL and copy all four file from there
 (b) Go to This PC / C:(C-drive) / Program Files(x86) / CodeBlocks / MinGW / include
