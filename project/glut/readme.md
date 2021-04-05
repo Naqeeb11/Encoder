@@ -1,7 +1,8 @@
-You can run this code using codeblocks configured with opengl.
+#You can run this code using **codeblocks** configured with **opengl**.
 Follow below for environment setup and execution of code.
 
-Install OpenGL on windows in CodeBlocks
+#Install OpenGL on windows in CodeBlocks
+
 1. Download code block and install it.
 2. Go to the link and download zip file from the download link that appears after freeglut
 MinGW package with having link name as Download freeglut 3.0.0 for MinGW and extract
